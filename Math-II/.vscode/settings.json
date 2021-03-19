@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "GitHub Light",
+    "workbench.preferredLightColorTheme": "Community Material Theme Lighter High Contrast",
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "editor.snippetSuggestions": "top",
+    "[markdown]":  {
+        "editor.quickSuggestions":{
+            "strings": false,
+            "other": true,
+            "comments": false
+
+        }
+      }
+}
