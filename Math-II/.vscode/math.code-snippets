@@ -29,7 +29,7 @@
 	//
 	"Right arrow":{
 		"prefix": "right",
-		"body": "&\\Rightarrow ${1}",
+		"body": "\\Rightarrow&${1}",
 		"description": "推导箭头"
 	},
 	"Fraction":{
@@ -50,7 +50,7 @@
 	},
 	"Unknown C":{
 		"prefix": "uc",
-		"body": "$C_${1}$",
+		"body": "C_${1}",
 		"description": "未知常数C"
 	},
 	"Inline equation":{
